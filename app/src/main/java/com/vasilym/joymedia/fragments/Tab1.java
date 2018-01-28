@@ -44,7 +44,7 @@ public class Tab1 extends Fragment {
     }
 
     public void scrollToStart(){
-        tab1scroll.smoothScrollTo(0,0);
+        tab1scroll.scrollTo(0,0);
     }
 
     @Override
