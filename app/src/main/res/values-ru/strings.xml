@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Joy Media</string>
+    <string name="tab1">ВКЛАДКА 1</string>
+    <string name="tab2">ВКЛАДКА 2</string>
+    <string name="button1">загрузить справочник</string>
+    <string name="loaded">Загружено</string>
+    <string name="objects">объектов</string>
+    <string name="loadingcatalog">Загрузка справочника</string>
+    <string name="error">Ошибка: </string>
+    <string name="refreshing">Обновление...</string>
+    <string name="loading">Загрузка...</string>
+</resources>

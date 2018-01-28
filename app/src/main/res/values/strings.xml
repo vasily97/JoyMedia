@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Joy Media</string>
+    <string name="tab1">TAB 1</string>
+    <string name="tab2">TAB 2</string>
+    <string name="button1">Load catalog</string>
+    <string name="loaded">Loaded</string>
+    <string name="objects">objects</string>
+    <string name="loadingcatalog" translatable="false">Loading catalog...</string>
+    <string name="error">Error: </string>
+    <string name="refreshing">Refreshing...</string>
+    <string name="loading">Loading...</string>
+</resources>
